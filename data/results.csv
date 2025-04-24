@@ -597,8 +597,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1954-04-10,France,England,11,3,1954 Five Nations Championship,Stade Yves-du-Manoir,Colombes,France,False,False
 1954-04-10,Wales,Scotland,15,3,1954 Five Nations Championship,St Helen's,Swansea,Wales,False,False
 1954-04-24,Italy,France,12,39,1954 Rugby Union European Cup,Stadio Olimpico,Rome,Italy,False,False
-1954-08-29,Argentina,France,8,22,1954 France tour of Argentina and Chile,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
-1954-09-12,Argentina,France,3,30,1954 France tour of Argentina and Chile,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1954-08-29,Argentina,France,8,22,1954 France tour of Argentina and Chile,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
+1954-09-12,Argentina,France,3,30,1954 France tour of Argentina and Chile,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1955-01-08,France,Scotland,15,0,1955 Five Nations Championship,Stade Yves-du-Manoir,Colombes,France,False,False
 1955-01-22,Wales,England,3,0,1955 Five Nations Championship,Cardiff Arms Park,Cardiff,Wales,False,False
 1955-01-22,Ireland,France,3,5,1955 Five Nations Championship,Lansdowne Road,Dublin,Ireland,False,False
@@ -609,7 +609,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1955-03-12,Wales,Ireland,21,3,1955 Five Nations Championship,National Stadium,Cardiff,Wales,False,False
 1955-03-19,England,Scotland,9,6,1955 Five Nations Championship,Twickenham Stadium,London,England,False,False
 1955-03-26,France,Wales,11,16,1955 Five Nations Championship,Stade Colombes,Paris,France,False,False
-1955-04-10,France,Italy,24,0,Test Match,Stade LesdiguiÃ¨res,Grenoble,France,False,False
+1955-04-10,France,Italy,24,0,Test Match,Stade Lesdiguií¨res,Grenoble,France,False,False
 1955-08-20,New Zealand,Australia,16,8,1955 Australia tour of New Zealand,Athletic Park,Wellington,New Zealand,False,False
 1955-09-03,New Zealand,Australia,8,0,1955 Australia tour of New Zealand,Carisbrook,Dunedin,New Zealand,False,False
 1955-09-17,New Zealand,Australia,3,8,1955 Australia tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
@@ -688,11 +688,11 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1960-04-17,Italy,France,0,26,Test Match,Stadio Comunale di Monigo,Treviso,Italy,False,False
 1960-04-30,South Africa,Scotland,18,10,,EPRU Stadium,Port Elizabeth,South Africa,False,False
 1960-06-25,South Africa,New Zealand,13,0,1960 New Zealand tour,Ellis Park,Johannesburg,South Africa,False,False
-1960-07-23,Argentina,France,3,37,1960 France tour of Argentina and Uruguay,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1960-07-23,Argentina,France,3,37,1960 France tour of Argentina and Uruguay,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1960-07-23,South Africa,New Zealand,3,11,1960 New Zealand tour,Newlands,Cape Town,South Africa,False,False
-1960-08-06,Argentina,France,3,12,1960 France tour of Argentina and Uruguay,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1960-08-06,Argentina,France,3,12,1960 France tour of Argentina and Uruguay,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1960-08-13,South Africa,New Zealand,11,11,1960 New Zealand tour,Free State Stadium,Bloemfontein,South Africa,False,False
-1960-08-17,Argentina,France,6,29,1960 France tour of Argentina and Uruguay,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1960-08-17,Argentina,France,6,29,1960 France tour of Argentina and Uruguay,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1960-08-27,South Africa,New Zealand,8,3,1960 New Zealand tour,Boet Erasmus Stadium,Port Elizabeth,South Africa,False,False
 1960-12-03,Wales,South Africa,0,3,1960-61 South Africa tour of Europe,National Stadium,Cardiff,Wales,False,False
 1960-12-17,Ireland,South Africa,3,8,1960-61 South Africa rugby union tour of Europe,Lansdowne Road,Dublin,Ireland,False,False
@@ -708,7 +708,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1961-03-11,Wales,Ireland,9,0,1961 Five Nations Championship,National Stadium,Cardiff,Wales,False,False
 1961-03-18,England,Scotland,6,0,1961 Five Nations Championship,Twickenham Stadium,London,England,False,False
 1961-03-25,France,Wales,8,6,1961 Five Nations Championship,Stade Colombes,Paris,France,False,False
-1961-04-02,France,Italy,17,0,Test Match,Stade Municipal,ChambÃ©ry,France,False,False
+1961-04-02,France,Italy,17,0,Test Match,Stade Municipal,Chambéry,France,False,False
 1961-04-15,Ireland,France,3,15,1961 Five Nations Championship,Lansdowne Road,Dublin,Ireland,False,False
 1961-05-13,South Africa,Ireland,24,8,1961 Ireland rugby union tour of South Africa,Newlands,Cape Town,South Africa,False,False
 1961-07-22,New Zealand,France,13,6,1961 French tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
@@ -743,7 +743,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1963-03-09,Wales,Ireland,6,14,1963 Five Nations Championship,National Stadium,Cardiff,Wales,False,False
 1963-03-16,England,Scotland,10,8,1963 Five Nations Championship,Twickenham Stadium,London,England,False,False
 1963-03-23,France,Wales,5,3,1963 Five Nations Championship,Stade Colombes,Paris,France,False,False
-1963-04-14,France,Italy,14,12,Test Match,Stade LesdiguiÃ¨res,Grenoble,France,False,False
+1963-04-14,France,Italy,14,12,Test Match,Stade Lesdiguií¨res,Grenoble,France,False,False
 1963-05-25,New Zealand,England,21,11,1963 England rugby union tour of Australasia,Eden Park,Auckland,New Zealand,False,False
 1963-06-01,New Zealand,England,9,6,1963 England rugby union tour of Australasia,Lancaster Park,Christchurch,New Zealand,False,False
 1963-06-04,Australia,England,18,9,1963 England tour of Australia and New Zealand,Sydney Sports Ground,Sydney,Australia,False,False
@@ -948,8 +948,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1974-05-25,Australia,New Zealand,6,11,1974 New Zealand tour of Australia,Sydney Cricket Ground,Sydney,Australia,False,False
 1974-06-01,Australia,New Zealand,16,16,1974 New Zealand tour of Australia,Ballymore Stadium,Brisbane,Australia,False,False
 1974-06-08,Australia,New Zealand,6,16,1974 New Zealand tour of Australia,Sydney Cricket Ground,Sydney,Australia,False,False
-1974-06-20,Argentina,France,15,20,1974 France tour of Brazil and Argentina,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
-1974-06-29,Argentina,France,27,31,1974 France tour of Brazil and Argentina,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1974-06-20,Argentina,France,15,20,1974 France tour of Brazil and Argentina,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
+1974-06-29,Argentina,France,27,31,1974 France tour of Brazil and Argentina,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1974-11-23,France,South Africa,4,13,1974 South Africa rugby union tour of France,Stadium Municipal,Toulouse,France,False,False
 1974-11-23,Ireland,New Zealand,6,15,"1974 New Zealand rugby union tour of Ireland, Wales and England",Lansdowne Road,Dublin,Ireland,False,False
 1974-11-30,France,South Africa,8,10,1974 South Africa rugby union tour of France,Parc des Princes,Paris,France,False,False
@@ -1001,8 +1001,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1977-03-05,Wales,England,14,9,1977 Five Nations Championship,Cardiff Arms Park,Cardiff,Wales,False,False
 1977-03-19,Scotland,Wales,9,18,1977 Five Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
 1977-03-19,Ireland,France,6,15,1977 Five Nations Championship,Lansdowne Road,Dublin,Ireland,False,False
-1977-06-25,Argentina,France,3,26,1977 France tour of Argentina,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
-1977-07-02,Argentina,France,18,18,1977 France tour of Argentina,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1977-06-25,Argentina,France,3,26,1977 France tour of Argentina,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
+1977-07-02,Argentina,France,18,18,1977 France tour of Argentina,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1977-11-11,France,New Zealand,18,13,1977 New Zealand tour,Stadium Municipal,Toulouse,France,False,False
 1977-11-19,France,New Zealand,3,15,1977 New Zealand tour,Parc des Princes,Paris,France,False,False
 1978-01-21,France,England,15,6,1978 Five Nations Championship,Parc des Princes,Paris,France,False,False
@@ -1154,9 +1154,9 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1985-04-20,Wales,England,24,15,1985 Five Nations Championship,Cardiff Arms Park,Cardiff,Wales,False,False
 1985-06-01,New Zealand,England,18,13,1985 England rugby union tour of New Zealand,Lancaster Park,Christchurch,New Zealand,False,False
 1985-06-08,New Zealand,England,42,15,1985 England rugby union tour of New Zealand,Athletic Park,Wellington,New Zealand,False,False
-1985-06-22,Argentina,France,24,16,1985 France tour of South America,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1985-06-22,Argentina,France,24,16,1985 France tour of South America,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1985-06-29,New Zealand,Australia,10,9,1985 Australia tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
-1985-06-29,Argentina,France,15,23,1985 France tour of South America,Ferro Carrill Oeste,Buenos Aires,Argentina,False,False
+1985-06-29,Argentina,France,15,23,1985 France tour of South America,Ferro Carril Oeste,Buenos Aires,Argentina,False,False
 1985-10-26,Argentina,New Zealand,20,33,1985 New Zealand tour of Argentina,Estadio Ricardo Etcheverry,Buenos Aires,Argentina,False,False
 1985-11-02,Argentina,New Zealand,21,21,1985 New Zealand tour of Argentina,Estadio Ricardo Etcheverry,Buenos Aires,Argentina,False,False
 1986-01-18,England,Wales,21,18,1986 Five Nations Championship,Twickenham,London,England,False,False
@@ -1169,9 +1169,9 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1986-03-01,England,Ireland,25,20,1986 Five Nations Championship,Twickenham,London,England,False,False
 1986-03-15,France,England,29,10,1986 Five Nations Championship,Parc des Princes,Paris,France,False,False
 1986-03-15,Ireland,Scotland,9,10,1986 Five Nations Championship,Lansdowne Road,Dublin,Ireland,False,False
-1986-05-31,Argentina,France,15,13,1986 France tour of Argentina and Oceania,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1986-05-31,Argentina,France,15,13,1986 France tour of Argentina and Oceania,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1986-06-01,Australia,Italy,39,18,1986 Italy tour of Australia,Ballymore Stadium,Brisbane,Australia,False,False
-1986-06-07,Argentina,France,9,22,1986 France tour of Argentina and Oceania,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1986-06-07,Argentina,France,9,22,1986 France tour of Argentina and Oceania,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1986-06-21,Australia,France,27,14,"1986 France tour of Argentina, Australia and New Zealand",Sydney Cricket Ground,Sydney,Australia,False,False
 1986-06-28,New Zealand,France,18,9,1986 France tour,Lancaster Park,Christchurch,New Zealand,False,False
 1986-07-06,Australia,Argentina,39,19,1986 Argentina tour of Australia,Ballymore Stadium,Brisbane,Australia,False,False
@@ -1205,8 +1205,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1987-06-18,Australia,Wales,21,22,1987 Rugby World Cup bronze final,Rotorua Int. Stadium,Rotorua,New Zealand,True,True
 1987-06-20,New Zealand,France,29,9,1987 Rugby World Cup Final,Eden Park,Auckland,New Zealand,False,True
 1987-07-25,Australia,New Zealand,16,30,1987 New Zealand tour of Australia,Concord Oval,Sydney,Australia,False,False
-1987-10-31,Argentina,Australia,19,19,1987 Australia tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
-1987-11-07,Argentina,Australia,27,19,1987 Australia tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1987-10-31,Argentina,Australia,19,19,1987 Australia tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1987-11-07,Argentina,Australia,27,19,1987 Australia tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1988-01-16,France,England,10,9,1988 Five Nations Championship,Parc des Princes,Paris,France,False,False
 1988-01-16,Ireland,Scotland,22,18,1988 Five Nations Championship,Lansdowne Road,Dublin,Ireland,False,False
 1988-02-06,England,Wales,3,11,1988 Five Nations Championship,Twickenham,London,England,False,False
@@ -1222,8 +1222,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1988-05-29,Australia,England,22,16,1988 England tour of Australia and Fiji,Ballymore Stadium,Brisbane,Australia,False,False
 1988-06-11,New Zealand,Wales,54,9,1988 Wales tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 1988-06-12,Australia,England,28,8,1988 England tour of Australia and Fiji,Concord Oval,Sydney,Australia,False,False
-1988-06-18,Argentina,France,15,18,1988 France tour of South America,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
-1988-06-25,Argentina,France,18,6,1988 France tour of South America,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1988-06-18,Argentina,France,15,18,1988 France tour of South America,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1988-06-25,Argentina,France,18,6,1988 France tour of South America,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1988-07-03,Australia,New Zealand,7,32,1988 New Zealand tour of Australia,Concord Oval,Sydney,Australia,False,False
 1988-07-16,Australia,New Zealand,19,19,1988 New Zealand tour of Australia,Ballymore Stadium,Brisbane,Australia,False,False
 1988-07-30,Australia,New Zealand,9,30,1988 New Zealand tour of Australia,Concord Oval,Sydney,Australia,False,False
@@ -1244,14 +1244,14 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1989-03-18,France,Scotland,19,3,1989 Five Nations Championship,Parc des Princes,Paris,France,False,False
 1989-03-18,Wales,England,12,9,1989 Five Nations Championship,Cardiff Arms Park,Cardiff,Wales,False,False
 1989-06-17,New Zealand,France,25,17,1989 French tour of New Zealand,Lancaster Park,Christchurch,New Zealand,False,False
-1989-06-24,Argentina,Italy,21,16,1989 Italy rugby union tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1989-06-24,Argentina,Italy,21,16,1989 Italy rugby union tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1989-07-01,New Zealand,France,34,20,1989 French tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 1989-07-15,New Zealand,Argentina,60,9,1989 Argentina tour of New Zealand,Carisbrook,Dunedin,New Zealand,False,False
 1989-07-29,New Zealand,Argentina,49,12,1989 Argentina tour of New Zealand,Athletic Park,Wellington,New Zealand,False,False
 1989-08-05,New Zealand,Australia,24,12,1989 Australia tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 1989-11-04,Wales,New Zealand,9,34,"1989 New Zealand tour of Great Britain, Ireland and North America",National Stadium,Cardiff,Wales,False,False
 1989-11-04,France,Australia,15,32,1989 Australia tour of France and Canada,Stade de la Meinau,Strasbourg,France,False,False
-1989-11-11,France,Australia,25,19,1989 Australia tour of France and Canada,Stadium Nord Lille MÃ©tropole,Lille,France,False,False
+1989-11-11,France,Australia,25,19,1989 Australia tour of France and Canada,Stadium Nord Lille Métropole,Lille,France,False,False
 1989-11-18,Ireland,New Zealand,6,23,1989 New Zealand rugby union tour of Canada and the British Isles,Lansdowne Road,Dublin,Ireland,False,False
 1990-01-20,Wales,France,19,29,1990 Five Nations Championship,National Stadium,Cardiff,Wales,False,False
 1990-01-20,England,Ireland,23,0,1990 Five Nations Championship,Twickenham,London,England,False,False
@@ -1269,8 +1269,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1990-06-24,Australia,France,48,31,1990 France tour of Australia,Ballymore Stadium,Brisbane,Australia,False,False
 1990-06-30,Australia,France,19,28,1990 France tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
 1990-07-21,New Zealand,Australia,21,6,1990 Australia tour of New Zealand,Lancaster Park,Christchurch,New Zealand,False,False
-1990-07-28,Argentina,England,12,25,1990 England tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
-1990-08-04,Argentina,England,15,13,1990 England tour of Argentina,VÃ©lez SÃ¡rsfield,Buenos Aires,Argentina,False,False
+1990-07-28,Argentina,England,12,25,1990 England tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1990-08-04,Argentina,England,15,13,1990 England tour of Argentina,Vélez Sársfield,Buenos Aires,Argentina,False,False
 1990-08-04,New Zealand,Australia,27,17,1990 Australia tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 1990-08-18,New Zealand,Australia,9,21,1990 Australia tour of New Zealand,Athletic Park,Wellington,New Zealand,False,False
 1990-10-27,Ireland,Argentina,20,18,1990 Argentina rugby union tour of British Isles,Lansdowne Road,Dublin,Ireland,False,False
@@ -1288,8 +1288,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1991-03-02,Ireland,England,7,16,1991 Five Nations Championship,Lansdowne Road,Dublin,Ireland,False,False
 1991-03-16,Scotland,Ireland,28,25,1991 Five Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
 1991-03-16,England,France,21,19,1991 Five Nations Championship,Twickenham,London,England,False,False
-1991-07-06,Argentina,New Zealand,14,28,1991 New Zealand tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
-1991-07-13,Argentina,New Zealand,6,36,1991 New Zealand tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1991-07-06,Argentina,New Zealand,14,28,1991 New Zealand tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1991-07-13,Argentina,New Zealand,6,36,1991 New Zealand tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1991-07-22,Australia,Wales,63,6,1991 Wales tour of Australia,Ballymore Stadium,Brisbane,Australia,False,False
 1991-07-27,Australia,England,40,15,1991 England tour of Australia and Fiji,Sydney Football Stadium,Sydney,Australia,False,False
 1991-08-10,Australia,New Zealand,21,12,1991 New Zealand tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
@@ -1323,8 +1323,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1992-06-13,Australia,Scotland,27,12,1992 Scotland tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
 1992-06-21,Australia,Scotland,37,13,1992 Scotland tour of Australia,Ballymore Stadium,Brisbane,Australia,False,False
 1992-07-04,Australia,New Zealand,16,15,1992 New Zealand tour of Australia and South Africa,Sydney Football Stadium,Sydney,Australia,False,False
-1992-07-04,Argentina,France,12,27,1992 France tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
-1992-07-11,Argentina,France,9,33,1992 France tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1992-07-04,Argentina,France,12,27,1992 France tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1992-07-11,Argentina,France,9,33,1992 France tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1992-07-19,Australia,New Zealand,19,17,1992 New Zealand tour of Australia and South Africa,Ballymore Stadium,Brisbane,Australia,False,False
 1992-07-25,Australia,New Zealand,23,26,1992 New Zealand tour of Australia and South Africa,Sydney Football Stadium,Sydney,Australia,False,False
 1992-08-15,South Africa,New Zealand,24,27,1992 New Zealand tour,Ellis Park,Johannesburg,South Africa,False,False
@@ -1418,7 +1418,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1995-07-29,Australia,New Zealand,23,34,1995 New Zealand tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
 1995-09-02,South Africa,Wales,40,11,Wales tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
 1995-10-14,France,Italy,34,22,1st Coupe Latine de Rugby,Ferrocaril Oeste,Buenos Aires,Argentina,True,False
-1995-10-17,Argentina,Italy,26,6,,Monumental JosÃ© Fierro,TucumÃ¡n,Argentina,False,False
+1995-10-17,Argentina,Italy,26,6,,Monumental José Fierro,Tucumán,Argentina,False,False
 1995-10-21,Argentina,France,12,47,1995 Latin Cup,Estadio Etcheverry,Buenos Aires,Argentina,False,False
 1995-10-28,Italy,New Zealand,6,70,1995 New Zealand rugby union tour of Italy and France,Stadio Renato Dall'Ara,Bologna,Italy,False,False
 1995-11-11,France,New Zealand,22,15,1995 New Zealand tour,Stadium Municipal,Toulouse,France,False,False
@@ -1476,7 +1476,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1997-03-01,England,France,20,23,1997 Five Nations Championship,Twickenham,London,England,False,False
 1997-03-15,France,Scotland,47,20,1997 Five Nations Championship,Parc des Princes,Paris,France,False,False
 1997-03-15,Wales,England,13,34,1997 Five Nations Championship,Cardiff Arms Park,Cardiff,Wales,False,False
-1997-03-22,France,Italy,32,40,1995-97 European Cup final,Stade LesdiguiÃ¨res,Grenoble,France,False,False
+1997-03-22,France,Italy,32,40,1995-97 European Cup final,Stade Lesdiguií¨res,Grenoble,France,False,False
 1997-05-31,Argentina,England,20,46,1997 England tour of Argentina and Australia,Ferrocarril Stadium,Buenos Aires,Argentina,False,False
 1997-06-07,Argentina,England,33,13,1997 England tour of Argentina and Australia,Ferrocarril Stadium,Buenos Aires,Argentina,False,False
 1997-06-21,New Zealand,Argentina,93,8,1997 Argentina tour of New Zealand,Athletic Park,Wellington,New Zealand,False,False
@@ -1492,8 +1492,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1997-08-16,New Zealand,Australia,36,24,1997 Tri Nations Series,Carisbrook,Dunedin,New Zealand,False,False
 1997-08-23,South Africa,Australia,61,22,1997 Tri Nations Series,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
 1997-10-18,France,Italy,30,19,2nd Coupe Latine de Rugby,Stade du Moulias,Auch,France,False,False
-1997-10-22,Argentina,Italy,18,18,,Stade Antoine-BÃ©guÃ¨re,Lourdes,France,True,False
-1997-10-26,France,Argentina,32,27,1997 Latin Cup,Stade Maurice TrÃ©lut,Tarbes,France,False,False
+1997-10-22,Argentina,Italy,18,18,,Stade Antoine-Béguí¨re,Lourdes,France,True,False
+1997-10-26,France,Argentina,32,27,1997 Latin Cup,Stade Maurice Trélut,Tarbes,France,False,False
 1997-11-01,Argentina,Australia,15,23,1997 Australia tour of Argentina and Great Britain,Estadio Ricardo Etcheverry,Buenos Aires,Argentina,False,False
 1997-11-08,Argentina,Australia,18,16,1997 Australia tour of Argentina and Great Britain,Estadio Ricardo Etcheverry,Buenos Aires,Argentina,False,False
 1997-11-08,Italy,South Africa,31,62,1997 South Africa rugby union tour of Europe,Stadio Renato Dall'Ara,Bologna,Italy,False,False
@@ -1521,11 +1521,11 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1998-04-04,England,Ireland,35,17,1998 Five Nations Championship,Twickenham,London,England,False,False
 1998-04-05,Wales,France,0,51,1998 Five Nations Championship,Wembley Stadium,London,England,True,False
 1998-06-06,Australia,England,76,0,"1998 England tour of Australia, New Zealand and South Africa",Lang Park,Brisbane,Australia,False,False
-1998-06-13,Argentina,France,18,35,1998 France tour of Argentina and Fiji,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1998-06-13,Argentina,France,18,35,1998 France tour of Argentina and Fiji,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1998-06-13,Australia,Scotland,45,3,1998 Scotland tour of Australia and Fiji,Sydney Football Stadium,Sydney,Australia,False,False
 1998-06-13,South Africa,Ireland,37,13,1998 Ireland rugby union tour of South Africa,Vodacom Park,Bloemfontein,South Africa,False,False
 1998-06-20,New Zealand,England,64,22,1998 England rugby union tour of Australasia and South Africa,Carisbrook,Dunedin,New Zealand,False,False
-1998-06-20,Argentina,France,12,37,1998 France tour of Argentina and Fiji,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+1998-06-20,Argentina,France,12,37,1998 France tour of Argentina and Fiji,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 1998-06-20,Australia,Scotland,33,11,1998 Scotland tour of Australia and Fiji,Lang Park,Brisbane,Australia,False,False
 1998-06-20,South Africa,Ireland,33,0,1998 Ireland rugby union tour of South Africa,Loftus Versfeld,Pretoria,South Africa,False,False
 1998-06-27,South Africa,Wales,96,13,1998 Wales tour of Zimbabwe and South Africa,Loftus Versfeld,Pretoria,South Africa,False,False
@@ -1585,7 +1585,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 1999-10-09,England,New Zealand,16,30,1999 Rugby World Cup Pool Stage,Twickenham,London,England,False,True
 1999-10-10,Ireland,Australia,3,23,1999 Rugby World Cup Pool match,Lansdowne Road,Dublin,Ireland,False,True
 1999-10-14,New Zealand,Italy,101,3,1999 Rugby World Cup,McAlpine Stadium,Huddersfield,England,True,True
-1999-10-20,Argentina,Ireland,28,24,1999 Rugby World Cup,Stade FÃ©lix Bollaert,Lens,France,True,True
+1999-10-20,Argentina,Ireland,28,24,1999 Rugby World Cup,Stade Félix Bollaert,Lens,France,True,True
 1999-10-23,Wales,Australia,9,24,1999 Rugby World Cup Quarter-finals,Millennium Stadium,Cardiff,Wales,False,True
 1999-10-24,England,South Africa,21,44,1999 Rugby World Cup Quarter-final,Stade de France,Paris,France,True,True
 1999-10-24,Scotland,New Zealand,18,30,1999 Rugby World Cup Quarter Final,Murrayfield,Edinburgh,Scotland,False,True
@@ -1628,7 +1628,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2000-11-11,France,New Zealand,26,39,2000 end of year test,Stade de France,Saint-Denis,France,False,False
 2000-11-12,Argentina,South Africa,33,37,"2000 South Africa tour of Argentina, Great Britain and Ireland",River Plate Stadium,Buenos Aires,Argentina,False,False
 2000-11-18,England,Australia,22,19,2000 Autumn International,Twickenham Stadium,London,England,False,False
-2000-11-18,France,New Zealand,42,33,2000 end of year test,Stade VÃ©lodrome,Marseilles,France,False,False
+2000-11-18,France,New Zealand,42,33,2000 end of year test,Stade Vélodrome,Marseilles,France,False,False
 2000-11-19,Ireland,South Africa,18,28,2000 end-of-year test,Lansdowne Road,Dublin,Ireland,False,False
 2000-11-25,England,Argentina,19,0,2000 Autumn International,Twickenham,London,England,False,False
 2000-11-25,Italy,New Zealand,19,56,2000 end-of-year internationals,Stadio Luigi Ferraris,Genoa,Italy,False,False
@@ -1664,7 +1664,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2001-11-10,Wales,Argentina,16,30,2001 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
 2001-11-10,England,Australia,21,15,2001 Autumn International,Twickenham Stadium,London,England,False,False
 2001-11-10,France,South Africa,20,10,2001 Autumn International,Stade de France,Saint-Denis,France,False,False
-2001-11-17,France,Australia,14,13,2001 Australia tour of Europe,Stade VÃ©lodrome,Marseille,France,False,False
+2001-11-17,France,Australia,14,13,2001 Australia tour of Europe,Stade Vélodrome,Marseille,France,False,False
 2001-11-17,Ireland,New Zealand,29,40,2001 New Zealand rugby union tour,Lansdowne Road,Dublin,Ireland,False,False
 2001-11-17,Italy,South Africa,26,54,2001 autumn internationals,Stadio Luigi Ferraris,Genoa,Italy,False,False
 2001-11-18,Scotland,Argentina,16,25,2001 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
@@ -1690,9 +1690,9 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2002-06-08,South Africa,Wales,34,19,2002 Wales tour of South Africa,Free State Stadium,Bloemfontein,South Africa,False,False
 2002-06-08,New Zealand,Italy,64,10,2002 Italy rugby union tour,Waikato Stadium,Hamilton,New Zealand,False,False
 2002-06-15,South Africa,Wales,19,8,2002 Wales tour of South Africa,Newlands,Cape Town,South Africa,False,False
-2002-06-15,Argentina,France,28,27,2002 France tour of Argentina and Australia,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2002-06-15,Argentina,France,28,27,2002 France tour of Argentina and Australia,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2002-06-15,New Zealand,Ireland,15,6,2002 Ireland rugby union tour of New Zealand,Carisbrook,Dunedin,New Zealand,False,False
-2002-06-22,Argentina,England,18,26,2002 England tour of Argentina,VÃ©lez SÃ¡rsfield,Buenos Aires,Argentina,False,False
+2002-06-22,Argentina,England,18,26,2002 England tour of Argentina,Vélez Sársfield,Buenos Aires,Argentina,False,False
 2002-06-22,New Zealand,Ireland,40,8,2002 Ireland rugby union tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 2002-06-22,Australia,France,29,17,2002 France tour of Argentina and Australia,Docklands Stadium,Melbourne,Australia,False,False
 2002-06-29,Australia,France,31,25,2002 France tour of Argentina and Australia,Stadium Australia,Sydney,Australia,False,False
@@ -1706,7 +1706,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2002-11-02,Argentina,Australia,6,17,2002 Australia tour of Argentina and Europe,River Plate Stadium,Buenos Aires,Argentina,False,False
 2002-11-09,England,New Zealand,31,28,2002 Autumn International,Twickenham,London,England,False,False
 2002-11-09,Ireland,Australia,18,9,2002 Autumn International,Lansdowne Road,Dublin,Ireland,False,False
-2002-11-09,France,South Africa,30,10,2002 end-of-year rugby union internationals,Stade VÃ©lodrome,Marseille,France,False,False
+2002-11-09,France,South Africa,30,10,2002 end-of-year rugby union internationals,Stade Vélodrome,Marseille,France,False,False
 2002-11-16,Scotland,South Africa,21,6,2002 South Africa rugby union tour of Europe,Murrayfield,Edinburgh,Scotland,False,False
 2002-11-16,England,Australia,32,31,2002 Autumn International,Twickenham Stadium,London,England,False,False
 2002-11-16,France,New Zealand,20,20,2002 New Zealand tour of Europe,Stade de France,Saint-Denis,France,False,False
@@ -1733,10 +1733,10 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2003-06-07,Australia,Ireland,45,16,2003 Ireland tour of Oceania,Subiaco Oval,Perth,Australia,False,False
 2003-06-07,South Africa,Scotland,29,25,2003 Scotland rugby union tour of South Africa,Kings Park Stadium,Durban,South Africa,False,False
 2003-06-14,South Africa,Scotland,28,19,2003 Scotland rugby union tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
-2003-06-14,Argentina,France,10,6,2003 France tour of Argentina and New Zealand,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2003-06-14,Argentina,France,10,6,2003 France tour of Argentina and New Zealand,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2003-06-14,New Zealand,England,13,15,2003 England rugby union tour of Australasia,Westpac Stadium,Wellington,New Zealand,False,False
 2003-06-14,Australia,Wales,30,10,2003 Wales tour of Australia and New Zealand,Stadium Australia,Sydney,Australia,False,False
-2003-06-20,Argentina,France,33,32,2003 France tour of Argentina and New Zealand,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2003-06-20,Argentina,France,33,32,2003 France tour of Argentina and New Zealand,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2003-06-21,Australia,England,14,25,2003 England tour of Australia and New Zealand,Docklands Stadium,Melbourne,Australia,False,False
 2003-06-21,New Zealand,Wales,55,3,2003 Wales tour of Australia and New Zealand,Waikato Stadium,Hamilton,New Zealand,False,False
 2003-06-28,New Zealand,France,31,23,2003 French tour,Jade Stadium,Christchurch,New Zealand,False,False
@@ -1750,7 +1750,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2003-08-16,Ireland,Wales,35,12,2003 Rugby World Cup warm-up tests,Lansdowne Road,Dublin,Ireland,False,False
 2003-08-23,Wales,England,9,43,2003 Rugby World Cup warm-up,Millennium Stadium,Cardiff,Wales,False,False
 2003-08-23,Scotland,Italy,47,15,2003 Rugby World Cup warm-up matches,Murrayfield,Edinburgh,Scotland,False,False
-2003-08-30,France,England,17,16,2003 Rugby World Cup warm-up,Stade VÃ©lodrome,Marseille,France,False,False
+2003-08-30,France,England,17,16,2003 Rugby World Cup warm-up,Stade Vélodrome,Marseille,France,False,False
 2003-08-30,Ireland,Italy,61,6,2003 Rugby World Cup warm-up matches,Thomond Park,Limerick,Ireland,False,False
 2003-08-30,Wales,Scotland,23,9,2003 Rugby World Cup warm-up,Millennium Stadium,Cardiff,Wales,False,False
 2003-09-06,Scotland,Ireland,10,29,2003 Rugby World Cup warm-up tests,Murrayfield Stadium,Edinburgh,Scotland,False,False
@@ -1786,11 +1786,11 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2004-03-27,Ireland,Scotland,37,16,2004 Six Nations Championship,Lansdowne Road,Dublin,Ireland,False,False
 2004-03-27,Wales,Italy,44,10,2004 Six Nations,Millennium Stadium,Cardiff,Wales,False,False
 2004-03-27,France,England,24,21,2004 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
-2004-06-12,Argentina,Wales,50,44,2004 Wales tour of Argentina and South Africa,Estadio Monumental JosÃ© Fierro,TucumÃ¡n,Argentina,False,False
+2004-06-12,Argentina,Wales,50,44,2004 Wales tour of Argentina and South Africa,Estadio Monumental José Fierro,Tucumán,Argentina,False,False
 2004-06-12,New Zealand,England,36,3,2004 England rugby union tour of Australasia,Carisbrook,Dunedin,New Zealand,False,False
 2004-06-12,South Africa,Ireland,31,17,2004 Ireland rugby union tour of South Africa,Vodacom Park,Bloemfontein,South Africa,False,False
 2004-06-13,Australia,Scotland,35,15,2004 Scotland tour of Australia and New Zealand,Docklands Stadium,Melbourne,Australia,False,False
-2004-06-19,Argentina,Wales,20,35,2004 Wales tour of Argentina and South Africa,VÃ©lez SÃ¡rsfield,Buenos Aires,Argentina,False,False
+2004-06-19,Argentina,Wales,20,35,2004 Wales tour of Argentina and South Africa,Vélez Sársfield,Buenos Aires,Argentina,False,False
 2004-06-19,New Zealand,England,36,12,2004 England rugby union tour of Australasia,Eden Park,Auckland,New Zealand,False,False
 2004-06-19,South Africa,Ireland,26,17,2004 Ireland rugby union tour of South Africa,Newlands,Cape Town,South Africa,False,False
 2004-06-19,Australia,Scotland,34,13,2004 Scotland tour of Australia and New Zealand,Stadium Australia,Sydney,Australia,False,False
@@ -1809,14 +1809,14 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2004-11-13,Ireland,South Africa,17,12,2004 end-of-year test,Lansdowne Road,Dublin,Ireland,False,False
 2004-11-13,France,Australia,27,14,2004 Autumn International,Stade de France,Saint-Denis,France,False,False
 2004-11-20,England,South Africa,32,16,2004 Autumn International,Twickenham,London,England,False,False
-2004-11-20,France,Argentina,14,24,2004 Autumn International,Stade VÃ©lodrome,Marseille,France,False,False
+2004-11-20,France,Argentina,14,24,2004 Autumn International,Stade Vélodrome,Marseille,France,False,False
 2004-11-20,Scotland,Australia,17,31,2004 Autumn International,Hampden Park,Glasgow,Scotland,False,False
 2004-11-20,Wales,New Zealand,25,26,2004 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
 2004-11-27,Scotland,South Africa,10,45,2004 Autumn Internationals,Murrayfield,Edinburgh,Scotland,False,False
 2004-11-27,France,New Zealand,6,45,2004 end of year rugby union tests,Stade de France,Saint-Denis,France,False,False
 2004-11-27,England,Australia,19,21,2004 Autumn International,Twickenham Stadium,London,England,False,False
 2004-11-27,Ireland,Argentina,21,19,2004 Autumn Internationals,Lansdowne Road,Dublin,Ireland,False,False
-2004-12-04,Argentina,South Africa,7,39,2004 end-of-year test,VÃ©lez SÃ¡rsfield,Buenos Aires,Argentina,False,False
+2004-12-04,Argentina,South Africa,7,39,2004 end-of-year test,Vélez Sársfield,Buenos Aires,Argentina,False,False
 2005-02-05,Wales,England,11,9,2005 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
 2005-02-06,Italy,Ireland,17,28,2005 Six Nations Championship,Stadio Flaminio,Rome,Italy,False,False
 2005-02-12,Italy,Wales,8,38,2005 Six Nations,Stadio Flaminio,Rome,Italy,False,False
@@ -1833,7 +1833,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2005-03-19,Italy,France,13,56,2005 Six Nations Championship,Stadio Flaminio,Rome,Italy,False,False
 2005-03-19,Wales,Ireland,32,20,2005 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
 2005-06-11,Argentina,Italy,35,21,2005 Italy rugby union tour of Argentina,Padre Ernesto Martearena,Salta,Argentina,False,False
-2005-06-17,Argentina,Italy,29,30,2005 Italy rugby union tour of Argentina,Estadio OlÃ­mpico,CÃ³rdoba,Argentina,False,False
+2005-06-17,Argentina,Italy,29,30,2005 Italy rugby union tour of Argentina,Estadio Olí­mpico,Córdoba,Argentina,False,False
 2005-06-18,South Africa,France,30,30,2005 France rugby union tour,ABSA Stadium,Durban,South Africa,False,False
 2005-06-25,Australia,Italy,69,21,2005 Italy tour of Argentina and Australia,Docklands Stadium,Melbourne,Australia,False,False
 2005-06-25,South Africa,France,27,13,2005 France rugby union tour,Boet Erasmus Stadium,Port Elizabeth,South Africa,False,False
@@ -1847,8 +1847,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2005-08-27,New Zealand,South Africa,31,27,2005 Tri Nations Series,Carisbrook,Dunedin,New Zealand,False,False
 2005-09-03,New Zealand,Australia,34,24,2005 Tri Nations Series,Eden Park,Auckland,New Zealand,False,False
 2005-11-05,Wales,New Zealand,3,41,2005 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
-2005-11-05,France,Australia,26,16,2005 Autumn International,Stade VÃ©lodrome,Marseille,France,False,False
-2005-11-05,Argentina,South Africa,23,34,2005 end-of-year test,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2005-11-05,France,Australia,26,16,2005 Autumn International,Stade Vélodrome,Marseille,France,False,False
+2005-11-05,Argentina,South Africa,23,34,2005 end-of-year test,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2005-11-12,Scotland,Argentina,19,23,2005 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
 2005-11-12,England,Australia,26,16,2005 Autumn International,Twickenham Stadium,London,England,False,False
 2005-11-12,Ireland,New Zealand,7,45,2005 New Zealand rugby union tour of Britain and Ireland,Lansdowne Road,Dublin,Ireland,False,False
@@ -1877,12 +1877,12 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2006-06-10,New Zealand,Ireland,34,23,2006 Ireland rugby union tour of New Zealand and Australia,Waikato Stadium,Hamilton,New Zealand,False,False
 2006-06-10,South Africa,Scotland,36,16,2006 mid-year rugby test series,Kings Park Stadium,Durban,South Africa,False,False
 2006-06-11,Australia,England,34,3,2006 England tour of Australia,Stadium Australia,Sydney,Australia,False,False
-2006-06-11,Argentina,Wales,27,25,2006 Wales tour of Argentina,Estadio RaÃºl Conti,Puerto Madryn,Argentina,False,False
+2006-06-11,Argentina,Wales,27,25,2006 Wales tour of Argentina,Estadio Raúl Conti,Puerto Madryn,Argentina,False,False
 2006-06-17,Australia,England,43,18,2006 England tour of Australia,Docklands Stadium,Melbourne,Australia,False,False
 2006-06-17,New Zealand,Ireland,27,17,2006 Ireland rugby union tour of New Zealand and Australia,Eden Park,Auckland,New Zealand,False,False
 2006-06-17,South Africa,Scotland,29,15,2006 mid-year rugby test series,EPRU Stadium,Port Elizabeth,South Africa,False,False
-2006-06-17,Argentina,Wales,45,27,2006 Wales tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
-2006-06-24,Argentina,New Zealand,19,25,2006 New Zealand tour of Argentina and Europe,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2006-06-17,Argentina,Wales,45,27,2006 Wales tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2006-06-24,Argentina,New Zealand,19,25,2006 New Zealand tour of Argentina and Europe,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2006-06-24,Australia,Ireland,37,15,2006 Summer International,Subiaco Oval,Perth,Australia,False,False
 2006-06-24,South Africa,France,26,36,2006 mid-year test,Newlands,Cape Town,South Africa,False,False
 2006-07-08,New Zealand,Australia,32,12,2006 Tri Nations Series,Lancaster Park,Christchurch,New Zealand,False,False
@@ -1923,10 +1923,10 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2007-03-17,Italy,Ireland,24,51,2007 Six Nations Championship,Stadio Flaminio,Rome,Italy,False,False
 2007-03-17,Wales,England,27,18,2007 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
 2007-03-17,France,Scotland,46,19,2007 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
-2007-05-26,Argentina,Ireland,22,20,2007 June rugby union tests,Estadio Brigadier General Estanislao LÃ³pez,Santa Fe,Argentina,False,False
+2007-05-26,Argentina,Ireland,22,20,2007 June rugby union tests,Estadio Brigadier General Estanislao López,Santa Fe,Argentina,False,False
 2007-05-26,South Africa,England,58,10,2007 England rugby union tour of South Africa,Free State Stadium,Bloemfontein,South Africa,False,False
 2007-05-26,Australia,Wales,29,23,2007 Wales tour of Australia,Stadium Australia,Sydney,Australia,False,False
-2007-06-02,Argentina,Ireland,16,0,2007 June rugby union tests,Estadio JosÃ© Amalfitani,Buenos Aires,Argentina,False,False
+2007-06-02,Argentina,Ireland,16,0,2007 June rugby union tests,Estadio José Amalfitani,Buenos Aires,Argentina,False,False
 2007-06-02,Australia,Wales,31,0,2007 Wales tour of Australia,Lang Park,Brisbane,Australia,False,False
 2007-06-02,South Africa,England,55,22,2007 England rugby union tour of South Africa,Loftus Versfeld,Pretoria,South Africa,False,False
 2007-06-02,New Zealand,France,42,11,2007 mid-year rugby union tests,Eden Park,Auckland,New Zealand,False,False
@@ -1942,19 +1942,19 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2007-08-11,England,France,15,21,2007 Rugby World Cup warm-up,Twickenham,London,England,False,False
 2007-08-11,Scotland,Ireland,31,21,2007 Rugby World Cup warm-up tests,Murrayfield Stadium,Edinburgh,Scotland,False,False
 2007-08-18,Wales,Argentina,27,20,2007 Rugby World Cup warm-up match,Millennium Stadium,Cardiff,Wales,False,False
-2007-08-18,France,England,22,9,2007 Rugby World Cup warm-up,Stade VÃ©lodrome,Marseille,France,False,False
+2007-08-18,France,England,22,9,2007 Rugby World Cup warm-up,Stade Vélodrome,Marseille,France,False,False
 2007-08-24,Ireland,Italy,23,20,2007 Rugby World Cup warm-up tests,Ravenhill Stadium,Belfast,Ireland,False,False
 2007-08-25,Scotland,South Africa,3,27,2007 Rugby World Cup warm-up test,Murrayfield,Edinburgh,Scotland,False,False
 2007-08-26,Wales,France,7,34,2007 Rugby World Cup warm-up match,Millennium Stadium,Cardiff,Wales,False,False
 2007-09-07,France,Argentina,12,17,2007 Rugby World Cup Pool match,Stade de France,Saint-Denis,France,False,True
-2007-09-08,New Zealand,Italy,76,14,2007 Rugby World Cup,Stade VÃ©lodrome,Marseille,France,True,True
+2007-09-08,New Zealand,Italy,76,14,2007 Rugby World Cup,Stade Vélodrome,Marseille,France,True,True
 2007-09-14,England,South Africa,0,36,2007 Rugby World Cup Pool Stage,Stade de France,Paris,France,True,True
 2007-09-15,Wales,Australia,20,32,2007 Rugby World Cup Pool match,Millennium Stadium,Cardiff,Wales,False,True
 2007-09-21,France,Ireland,25,3,2007 Rugby World Cup,Stade de France,Saint-Denis,France,False,True
 2007-09-23,Scotland,New Zealand,0,40,2007 Rugby World Cup Pool Match,Murrayfield,Edinburgh,Scotland,False,True
-2007-09-29,Scotland,Italy,18,16,2007 Rugby World Cup,Stade Geoffroy-Guichard,Saint-Ã‰tienne,France,True,True
+2007-09-29,Scotland,Italy,18,16,2007 Rugby World Cup,Stade Geoffroy-Guichard,Saint-Étienne,France,True,True
 2007-09-30,Argentina,Ireland,30,15,2007 Rugby World Cup,Parc des Princes,Paris,France,True,True
-2007-10-06,Australia,England,10,12,2007 Rugby World Cup Quarter-final,Stade VÃ©lodrome,Marseille,France,True,True
+2007-10-06,Australia,England,10,12,2007 Rugby World Cup Quarter-final,Stade Vélodrome,Marseille,France,True,True
 2007-10-06,New Zealand,France,18,20,2007 Rugby World Cup,Millennium Stadium,Cardiff,Wales,True,True
 2007-10-07,Argentina,Scotland,19,13,2007 Rugby World Cup Quarter-finals,Stade de France,Saint-Denis,France,True,True
 2007-10-13,France,England,9,14,2007 Rugby World Cup semi-final,Stade de France,Saint-Denis,France,False,True
@@ -1983,11 +1983,11 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2008-06-14,New Zealand,England,37,20,2008 England rugby union tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 2008-06-14,Australia,Ireland,18,12,2008 Summer International,Docklands Stadium,Melbourne,Australia,False,False
 2008-06-14,South Africa,Wales,37,21,2008 Wales tour of South Africa,Loftus Versfeld,Pretoria,South Africa,False,False
-2008-06-14,Argentina,Scotland,14,26,2008 Scotland tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2008-06-14,Argentina,Scotland,14,26,2008 Scotland tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2008-06-21,New Zealand,England,44,12,2008 England rugby union tour of New Zealand,AMI Stadium,Christchurch,New Zealand,False,False
 2008-06-21,South Africa,Italy,26,0,2008 mid-year test,Newlands Stadium,Cape Town,South Africa,False,False
 2008-06-28,Australia,France,34,13,2008 France tour of Australia,Stadium Australia,Sydney,Australia,False,False
-2008-06-28,Argentina,Italy,12,13,2008 mid year test,Estadio OlÃ­mpico,CÃ³rdoba,Argentina,False,False
+2008-06-28,Argentina,Italy,12,13,2008 mid year test,Estadio Olímpico,Córdoba,Argentina,False,False
 2008-07-05,Australia,France,40,10,2008 France tour of Australia,Lang Park,Brisbane,Australia,False,False
 2008-07-05,New Zealand,South Africa,19,8,2008 Tri Nations Series,Westpac Stadium,Wellington,New Zealand,False,False
 2008-07-12,New Zealand,South Africa,28,30,2008 Tri Nations Series,Carisbrook,Dunedin,New Zealand,False,False
@@ -2001,7 +2001,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2008-09-13,Australia,New Zealand,24,28,2008 Tri Nations Series,Lang Park,Brisbane,Australia,False,False
 2008-11-01,New Zealand,Australia,19,14,2008 Autumn International,Hong Kong Stadium,Hong Kong,Hong Kong,True,False
 2008-11-08,Scotland,New Zealand,6,32,2008 end of year rugby tests,Murrayfield,Edinburgh,Scotland,False,False
-2008-11-08,France,Argentina,12,6,2008 Autumn International,Stade VÃ©lodrome,Marseille,France,False,False
+2008-11-08,France,Argentina,12,6,2008 Autumn International,Stade Vélodrome,Marseille,France,False,False
 2008-11-08,Wales,South Africa,15,20,2008 end-of-year test,Millennium Stadium,Cardiff,Wales,False,False
 2008-11-08,Italy,Australia,20,30,"2008 Australia tour of Great Britain, France and Italy",Stadio Euganeo,Padova,Italy,False,False
 2008-11-15,England,Australia,14,28,2008 Autumn International,Twickenham Stadium,London,England,False,False
@@ -2057,7 +2057,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2009-11-21,Wales,Argentina,33,16,2009 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
 2009-11-21,Italy,South Africa,10,32,2009 end-of-year test,Stadio Friuli,Udine,Italy,False,False
 2009-11-21,England,New Zealand,6,19,2009 Autumn International,Twickenham,London,England,False,False
-2009-11-28,France,New Zealand,12,39,2009 end of year rugby union tests,Stade VÃ©lodrome,Marseilles,France,False,False
+2009-11-28,France,New Zealand,12,39,2009 end of year rugby union tests,Stade Vélodrome,Marseilles,France,False,False
 2009-11-28,Wales,Australia,12,33,2009 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
 2009-11-28,Scotland,Argentina,6,9,2009 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
 2009-11-28,Ireland,South Africa,15,10,2009 end-of-year test,Croke Park,Dublin,Ireland,False,False
@@ -2077,15 +2077,15 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2010-03-20,Wales,Italy,33,10,2010 Six Nations,Millennium Stadium,Cardiff,Wales,False,False
 2010-03-20,France,England,12,10,2010 Six Nations Championship,Stade de France,Saint-Denis,France,False,False
 2010-06-05,Wales,South Africa,31,34,2010 mid-year test,Millennium Stadium,Cardiff,Wales,False,False
-2010-06-12,Argentina,Scotland,16,24,2010 Scotland tour of Argentina,Estadio JosÃ© Fierro,TucumÃ¡n,Argentina,False,False
+2010-06-12,Argentina,Scotland,16,24,2010 Scotland tour of Argentina,Estadio José Fierro,Tucumán,Argentina,False,False
 2010-06-12,South Africa,France,42,17,2010 mid-year test,Newlands,Cape Town,South Africa,False,False
 2010-06-12,New Zealand,Ireland,66,28,2010 Ireland rugby union tour of New Zealand and Australia,Yarrow Stadium,New Plymouth,New Zealand,False,False
 2010-06-12,Australia,England,27,17,2010 England tour of Australia and New Zealand,Subiaco Oval,Perth,Australia,False,False
-2010-06-19,Argentina,Scotland,9,13,2010 Scotland tour of Argentina,Estadio JosÃ© MarÃ­a Minella,Mar del Plata,Argentina,False,False
+2010-06-19,Argentina,Scotland,9,13,2010 Scotland tour of Argentina,Estadio José María Minella,Mar del Plata,Argentina,False,False
 2010-06-19,South Africa,Italy,29,13,2010 mid-year test,Johann van Riebeeck Stadium,Witbank,South Africa,False,False
 2010-06-19,New Zealand,Wales,42,9,2010 Wales tour of New Zealand,Carisbrook,Dunedin,New Zealand,False,False
 2010-06-19,Australia,England,20,21,2010 England tour of Australia and New Zealand,Stadium Australia,Sydney,Australia,False,False
-2010-06-26,Argentina,France,41,13,2010 Summer International,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2010-06-26,Argentina,France,41,13,2010 Summer International,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2010-06-26,Australia,Ireland,22,15,2010 Summer International,Lang Park,Brisbane,Australia,False,False
 2010-06-26,South Africa,Italy,55,11,2010 mid-year test,Buffalo City Stadium,East London,South Africa,False,False
 2010-06-26,New Zealand,Wales,29,10,2010 Wales tour of New Zealand,Waikato Stadium,Hamilton,New Zealand,False,False
@@ -2182,11 +2182,11 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2012-06-09,South Africa,England,22,17,2012 England rugby union tour of South Africa,Kings Park,Durban,South Africa,False,False
 2012-06-16,Australia,Wales,25,23,2012 Wales tour of Australia,Docklands Stadium,Melbourne,Australia,False,False
 2012-06-16,New Zealand,Ireland,22,19,2012 Ireland rugby union tour of New Zealand,Rugby League Park,Christchurch,New Zealand,False,False
-2012-06-16,Argentina,France,23,20,2012 France tour of Argentina,Estadio Mario Alberto Kempes,CÃ³rdoba,Argentina,False,False
+2012-06-16,Argentina,France,23,20,2012 France tour of Argentina,Estadio Mario Alberto Kempes,Córdoba,Argentina,False,False
 2012-06-16,South Africa,England,36,27,2012 England rugby union tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
 2012-06-23,New Zealand,Ireland,60,0,2012 Ireland rugby union tour of New Zealand,Waikato Stadium,Hamilton,New Zealand,False,False
 2012-06-23,Australia,Wales,20,19,2012 Wales tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
-2012-06-23,Argentina,France,10,49,2012 France tour of Argentina,Estadio JosÃ© Fierro,TucumÃ¡n,Argentina,False,False
+2012-06-23,Argentina,France,10,49,2012 France tour of Argentina,Estadio José Fierro,Tucumán,Argentina,False,False
 2012-06-23,South Africa,England,14,14,2012 England rugby union tour of South Africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
 2012-08-18,Australia,New Zealand,19,27,2012 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
 2012-08-18,South Africa,Argentina,27,6,2012 Rugby Championship,Newlands Stadium,Cape Town,South Africa,False,False
@@ -2197,7 +2197,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2012-09-15,Australia,Argentina,23,19,2012 Rugby Championship,Robina Stadium,Gold Coast,Australia,False,False
 2012-09-15,New Zealand,South Africa,21,11,2012 Rugby Championship,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
 2012-09-29,South Africa,Australia,31,8,2012 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
-2012-09-29,Argentina,New Zealand,15,54,2012 Rugby Championship,Estadio Ãšnico,La Plata,Argentina,False,False
+2012-09-29,Argentina,New Zealand,15,54,2012 Rugby Championship,Estadio íšnico,La Plata,Argentina,False,False
 2012-10-06,South Africa,New Zealand,16,32,2012 Rugby Championship,FNB Stadium,Johannesburg,South Africa,False,False
 2012-10-06,Argentina,Australia,19,25,2012 Rugby Championship,Gigante de Arroyito,Rosario,Argentina,False,False
 2012-10-20,Australia,New Zealand,18,18,2012 Autumn International,Lang Park,Brisbane,Australia,False,False
@@ -2205,7 +2205,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2012-11-10,Ireland,South Africa,12,16,2012 end-of-year test,Aviva Stadium,Dublin,Ireland,False,False
 2012-11-10,France,Australia,33,6,2012 Autumn International,Stade de France,Saint-Denis,France,False,False
 2012-11-11,Scotland,New Zealand,22,51,2012 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
-2012-11-17,France,Argentina,39,22,2012 Autumn International,Grand Stade Lille MÃ©tropole,Lille,France,False,False
+2012-11-17,France,Argentina,39,22,2012 Autumn International,Grand Stade Lille Métropole,Lille,France,False,False
 2012-11-17,England,Australia,14,20,2012 Autumn International,Twickenham Stadium,London,England,False,False
 2012-11-17,Scotland,South Africa,10,21,2012 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
 2012-11-17,Italy,New Zealand,10,42,2012 end-of-year internationals,Stadio Olimpico,Rome,Italy,False,False
@@ -2233,7 +2233,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2013-06-08,Argentina,England,3,32,2013 England tour of Argentina,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
 2013-06-08,New Zealand,France,23,13,2013 French tour to New Zealand,Eden Park,Auckland,New Zealand,False,False
 2013-06-08,South Africa,Italy,44,10,2013 South African quadrangular tournament,Kings Park Stadium,Durban,South Africa,False,False
-2013-06-15,Argentina,England,26,51,2013 England tour of Argentina,VÃ©lez SÃ¡rsfield,Buenos Aires,Argentina,False,False
+2013-06-15,Argentina,England,26,51,2013 England tour of Argentina,Vélez Sársfield,Buenos Aires,Argentina,False,False
 2013-06-15,South Africa,Scotland,30,17,South African Quadrangular tournament,Mbombela Stadium,Nelspruit,South Africa,False,False
 2013-06-15,New Zealand,France,30,0,2013 French tour to New Zealand,Rugby League Park,Christchurch,New Zealand,False,False
 2013-06-22,Scotland,Italy,30,29,South African Quadrangular tournament third place final,Loftus Versfeld,Pretoria,South Africa,True,False
@@ -2246,7 +2246,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2013-09-07,Australia,South Africa,12,38,2013 Rugby Championship,Lang Park,Brisbane,Australia,False,False
 2013-09-14,Australia,Argentina,14,13,2013 Rugby Championship,Subiaco Oval,Perth,Australia,False,False
 2013-09-14,New Zealand,South Africa,29,15,2013 Rugby Championship,Eden Park,Auckland,New Zealand,False,False
-2013-09-28,Argentina,New Zealand,15,33,2013 Rugby Championship,Estadio Ãšnico,La Plata,Argentina,False,False
+2013-09-28,Argentina,New Zealand,15,33,2013 Rugby Championship,Estadio íšnico,La Plata,Argentina,False,False
 2013-09-28,South Africa,Australia,28,8,2013 Rugby Championship,Newlands Stadium,Cape Town,South Africa,False,False
 2013-10-05,South Africa,New Zealand,27,38,2013 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
 2013-10-05,Argentina,Australia,17,54,2013 Rugby Championship,Gigante de Arroyito,Rosario,Argentina,False,False
@@ -2285,12 +2285,12 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2014-06-07,Australia,France,50,23,2014 France tour of Australia,Lang Park,Brisbane,Australia,False,False
 2014-06-14,Australia,France,6,0,2014 France tour of Australia,Docklands Stadium,Melbourne,Australia,False,False
 2014-06-14,New Zealand,England,28,27,2014 England rugby union tour of New Zealand,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
-2014-06-14,Argentina,Ireland,17,23,2014 Ireland rugby union tour of Argentina,Estadio Monumental JosÃ© Fierro,TucumÃ¡n,Argentina,False,False
+2014-06-14,Argentina,Ireland,17,23,2014 Ireland rugby union tour of Argentina,Estadio Monumental José Fierro,Tucumán,Argentina,False,False
 2014-06-14,South Africa,Wales,38,16,2014 Wales tour of South Africa,Kings Park,Durban,South Africa,False,False
 2014-06-21,Australia,France,39,13,2014 France tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
 2014-06-21,South Africa,Wales,31,30,2014 Wales tour of South Africa,Mbombela Stadium,Nelspruit,South Africa,False,False
 2014-06-21,New Zealand,England,36,13,2014 England rugby union tour of New Zealand,Waikato Stadium,Hamilton,New Zealand,False,False
-2014-06-21,Argentina,Scotland,19,21,2014 Summer International,Estadio Mario Alberto Kempes,CÃ³rdoba,Argentina,False,False
+2014-06-21,Argentina,Scotland,19,21,2014 Summer International,Estadio Mario Alberto Kempes,Córdoba,Argentina,False,False
 2014-06-28,South Africa,Scotland,55,6,2014 Mid-year Test,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
 2014-08-16,Australia,New Zealand,12,12,2014 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
 2014-08-16,South Africa,Argentina,13,6,2014 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
@@ -2300,7 +2300,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2014-09-06,New Zealand,Argentina,28,9,2014 Rugby Championship,McLean Park,Napier,New Zealand,False,False
 2014-09-13,New Zealand,South Africa,14,10,2014 Rugby Championship,Westpac Stadium,Wellington,New Zealand,False,False
 2014-09-13,Australia,Argentina,32,25,2014 Rugby Championship,Robina Stadium,Gold Coast,Australia,False,False
-2014-09-27,Argentina,New Zealand,13,34,2014 Rugby Championship,Estadio Ãšnico,La Plata,Argentina,False,False
+2014-09-27,Argentina,New Zealand,13,34,2014 Rugby Championship,Estadio íšnico,La Plata,Argentina,False,False
 2014-09-27,South Africa,Australia,28,10,2014 Rugby Championship,Newlands Stadium,Cape Town,South Africa,False,False
 2014-10-04,Argentina,Australia,21,17,2014 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,False
 2014-10-04,South Africa,New Zealand,27,25,2014 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
@@ -2343,7 +2343,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2015-08-08,South Africa,Argentina,25,37,2015 Rugby Championship,Kings Park Stadium,Durban,South Africa,False,False
 2015-08-15,England,France,19,14,2015 Rugby World Cup warm-up,Twickenham,London,England,False,False
 2015-08-15,Ireland,Scotland,28,22,2015 Rugby World Cup warm-up tests,Aviva Stadium,Dublin,Ireland,False,False
-2015-08-15,Argentina,South Africa,12,26,2015 Rugby World Cup warm-up match,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2015-08-15,Argentina,South Africa,12,26,2015 Rugby World Cup warm-up match,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2015-08-15,New Zealand,Australia,41,13,2015 Rugby World Cup warm-up match,Eden Park,Auckland,New Zealand,False,False
 2015-08-22,Italy,Scotland,12,16,2015 Rugby World Cup warm-ups,Stadio Olimpico di Torino,Turin,Italy,False,False
 2015-08-22,France,England,25,20,2015 Rugby World Cup warm-up,Stade de France,Saint-Denis,France,False,False
@@ -2387,14 +2387,14 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2016-06-11,Australia,England,28,39,2016 England tour of Australia,Lang Park,Brisbane,Australia,False,False
 2016-06-11,New Zealand,Wales,39,21,2016 Wales tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 2016-06-11,South Africa,Ireland,20,26,2016 Ireland rugby union tour of South Africa,Newlands,Cape Town,South Africa,False,False
-2016-06-11,Argentina,Italy,30,24,2016 mid year test,Estadio B.G Estanislao LÃ³pez,Santa Fe,Argentina,False,False
+2016-06-11,Argentina,Italy,30,24,2016 mid year test,Estadio B.G Estanislao López,Santa Fe,Argentina,False,False
 2016-06-18,South Africa,Ireland,32,26,2016 Ireland rugby union tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
 2016-06-18,Australia,England,7,23,2016 England tour of Australia,Melbourne Rectangular Stadium,Melbourne,Australia,False,False
 2016-06-18,New Zealand,Wales,36,22,2016 Wales tour of New Zealand,Wellington Regional Stadium,Wellington,New Zealand,False,False
-2016-06-19,Argentina,France,30,19,2016 France tour of Argentina,Estadio Monumental JosÃ© Fierro,TucumÃ¡n,Argentina,False,False
+2016-06-19,Argentina,France,30,19,2016 France tour of Argentina,Estadio Monumental José Fierro,Tucumán,Argentina,False,False
 2016-06-25,New Zealand,Wales,46,6,2016 Wales tour of New Zealand,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
 2016-06-25,South Africa,Ireland,19,13,2016 Ireland rugby union tour of South Africa,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
-2016-06-25,Argentina,France,0,27,2016 France tour of Argentina,Estadio Monumental JosÃ© Fierro,TucumÃ¡n,Argentina,False,False
+2016-06-25,Argentina,France,0,27,2016 France tour of Argentina,Estadio Monumental José Fierro,Tucumán,Argentina,False,False
 2016-06-25,Australia,England,40,44,2016 England tour of Australia,Sydney Football Stadium,Sydney,Australia,False,False
 2016-08-20,Australia,New Zealand,8,42,2016 Rugby Championship,Stadium Australia,Sydney,Australia,False,False
 2016-08-20,South Africa,Argentina,30,23,2016 Rugby Championship,Mbombela Stadium,Mbombela,South Africa,False,False
@@ -2404,7 +2404,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2016-09-10,Australia,South Africa,23,17,2016 Rugby Championship,Lang Park,Brisbane,Australia,False,False
 2016-09-17,New Zealand,South Africa,41,13,2016 Rugby Championship,Rugby League Park,Christchurch,New Zealand,False,False
 2016-09-17,Australia,Argentina,36,20,2016 Rugby Championship,Perth Oval,Perth,Australia,False,False
-2016-10-01,Argentina,New Zealand,17,36,2016 Rugby Championship,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2016-10-01,Argentina,New Zealand,17,36,2016 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2016-10-01,South Africa,Australia,18,10,2016 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
 2016-10-08,Argentina,Australia,21,33,2016 Rugby Championship,Twickenham,London,England,True,False
 2016-10-08,South Africa,New Zealand,15,57,2016 Rugby Championship,Kings Park Stadium,Durban,South Africa,False,False
@@ -2442,7 +2442,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2017-06-10,Argentina,England,34,38,2017 England tour of Argentina,Estadio Bicentenario,San Juan,Argentina,False,False
 2017-06-10,Italy,Scotland,13,34,2017 mid-year test,National Stadium,Singapore,Singapore,True,False
 2017-06-10,South Africa,France,37,14,2017 France rugby union tour of South Africa,Loftus Versfeld,Pretoria,South Africa,False,False
-2017-06-17,Argentina,England,25,35,2017 England tour of Argentina,Estadio Estanislao LÃ³pez,Santa Fe,Argentina,False,False
+2017-06-17,Argentina,England,25,35,2017 England tour of Argentina,Estadio Estanislao López,Santa Fe,Argentina,False,False
 2017-06-17,Australia,Scotland,19,24,2017 Summer International,Sydney Football Stadium,Sydney,Australia,False,False
 2017-06-17,South Africa,France,37,15,2017 France rugby union tour of South Africa,Kings Park,Durban,South Africa,False,False
 2017-06-24,South Africa,France,35,12,2017 France rugby union tour of South Africa,Ellis Park,Johannesburg,South Africa,False,False
@@ -2456,7 +2456,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2017-09-16,Australia,Argentina,45,20,2017 Rugby Championship,Canberra Stadium,Canberra,Australia,False,False
 2017-09-16,New Zealand,South Africa,57,0,2017 Rugby Championship,North Harbour Stadium,Albany,New Zealand,False,False
 2017-09-30,South Africa,Australia,27,27,2017 Rugby Championship,Free State Stadium,Bloemfontein,South Africa,False,False
-2017-09-30,Argentina,New Zealand,10,36,2017 Rugby Championship,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2017-09-30,Argentina,New Zealand,10,36,2017 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2017-10-07,Argentina,Australia,20,37,2017 Rugby Championship,Estadio Malvinas Argentinas,Mendoza,Argentina,False,False
 2017-10-07,South Africa,New Zealand,24,25,2017 Rugby Championship,Newlands,Cape Town,South Africa,False,False
 2017-10-21,Australia,New Zealand,23,18,2017 Autumn International,Lang Park,Brisbane,Australia,False,False
@@ -2479,7 +2479,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2018-02-10,England,Wales,12,6,2018 Six Nations Championship,Twickenham,London,England,False,False
 2018-02-10,Ireland,Italy,56,19,2018 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
 2018-02-11,Scotland,France,32,26,2018 Six Nations Championship,Murrayfield,Edinburgh,Scotland,False,False
-2018-02-23,France,Italy,34,17,2018 Six Nations Championship,Stade VÃ©lodrome,Marseille,France,False,False
+2018-02-23,France,Italy,34,17,2018 Six Nations Championship,Stade Vélodrome,Marseille,France,False,False
 2018-02-24,Ireland,Wales,37,27,2018 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
 2018-02-24,Scotland,England,25,13,2018 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
 2018-03-10,Ireland,Scotland,28,8,2018 Six Nations Championship,Aviva Stadium,Dublin,Ireland,False,False
@@ -2509,7 +2509,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2018-09-08,New Zealand,Argentina,46,24,2018 Rugby Championship,Trafalgar Park,Nelson,New Zealand,False,False
 2018-09-15,New Zealand,South Africa,34,36,2018 Rugby Championship,Westpac Stadium,Wellington,New Zealand,False,False
 2018-09-15,Australia,Argentina,19,23,2018 Rugby Championship,Robina Stadium,Gold Coast,Australia,False,False
-2018-09-29,Argentina,New Zealand,17,35,2018 Rugby Championship,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2018-09-29,Argentina,New Zealand,17,35,2018 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2018-09-29,South Africa,Australia,23,12,2018 Rugby Championship,Nelson Mandela Bay Stadium,Port Elizabeth,South Africa,False,False
 2018-10-06,Argentina,Australia,34,45,2018 Rugby Championship,Estadio Padre Ernesto Martearena,Salta,Argentina,False,False
 2018-10-06,South Africa,New Zealand,30,32,2018 Rugby Championship,Loftus Versfeld Stadium,Pretoria,South Africa,False,False
@@ -2544,7 +2544,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2019-03-16,Italy,France,14,25,2019 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
 2019-03-16,Wales,Ireland,25,7,2019 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
 2019-03-16,England,Scotland,38,38,2019 Six Nations Championship,Twickenham Stadium,London,England,False,False
-2019-07-20,Argentina,New Zealand,16,20,2019 Rugby Championship,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2019-07-20,Argentina,New Zealand,16,20,2019 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2019-07-20,South Africa,Australia,35,17,2019 Rugby Championship,Ellis Park Stadium,Johannesburg,South Africa,False,False
 2019-07-27,Australia,Argentina,16,10,2019 Rugby Championship,Suncorp Stadium,Brisbane,Australia,False,False
 2019-07-27,New Zealand,South Africa,16,16,2019 Rugby Championship,Westpac Stadium,Wellington,New Zealand,False,False
@@ -2569,8 +2569,8 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2019-10-04,South Africa,Italy,49,3,2019 Rugby World Cup,Shizuoka Stadium Ecopa,Fukuroi,Japan,True,True
 2019-10-05,England,Argentina,39,10,2019 Rugby World Cup Pool match,Tokyo Stadium,Tokyo,Japan,True,True
 2019-10-19,New Zealand,Ireland,46,14,2019 Rugby World Cup Quarter-final,Tokyo Stadium,Tokyo,Japan,True,True
-2019-10-19,England,Australia,40,16,2019 Rugby World Cup Quarter-final,ÅŒita Stadium,ÅŒita,Japan,True,True
-2019-10-20,Wales,France,20,19,2019 Rugby World Cup Quarter-finals,ÅŒita Stadium,ÅŒita,Japan,True,True
+2019-10-19,England,Australia,40,16,2019 Rugby World Cup Quarter-final,Ōita Stadium,Ōita,Japan,True,True
+2019-10-20,Wales,France,20,19,2019 Rugby World Cup Quarter-finals,Ōita Stadium,Ōita,Japan,True,True
 2019-10-26,England,New Zealand,19,7,2019 Rugby World Cup Semi-final,Nissan Stadium,Yokohama,Japan,True,True
 2019-10-27,Wales,South Africa,16,19,2019 Rugby World Cup Semi-final,International Stadium Yokohama,Yokohama,Japan,True,True
 2019-11-01,New Zealand,Wales,40,17,2019 Rugby World Cup Bronze Final,Tokyo Stadium,Tokyo,Japan,True,True
@@ -2690,7 +2690,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2022-09-03,Australia,South Africa,8,24,2022 Rugby Championship,Sydney Football Stadium,Sydney,Australia,False,False
 2022-09-03,New Zealand,Argentina,53,3,2022 Rugby Championship,Waikato Stadium,Hamilton,New Zealand,False,False
 2022-09-15,Australia,New Zealand,37,39,2022 Rugby Championship,Docklands Stadium,Melbourne,Australia,False,False
-2022-09-17,Argentina,South Africa,20,36,2022 Rugby Championship,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2022-09-17,Argentina,South Africa,20,36,2022 Rugby Championship,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2022-09-24,New Zealand,Australia,40,14,2022 Rugby Championship,Eden Park,Auckland,New Zealand,False,False
 2022-09-24,South Africa,Argentina,38,21,2022 Rugby Championship,Kings Park Stadium,Durban,South Africa,False,False
 2022-10-29,Scotland,Australia,15,16,2022 Autumn International,Murrayfield Stadium,Edinburgh,Scotland,False,False
@@ -2698,7 +2698,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2022-11-05,Ireland,South Africa,19,16,2022 end-of-year test,Aviva Stadium,Dublin,Ireland,False,False
 2022-11-05,France,Australia,30,29,2022 Autumn International,Stade de France,Saint-Denis,France,False,False
 2022-11-06,England,Argentina,29,30,2022 Autumn International,Twickenham,London,England,False,False
-2022-11-12,France,South Africa,30,26,2022 end-of-year test,Stade VÃ©lodrome,Marseille,France,False,False
+2022-11-12,France,South Africa,30,26,2022 end-of-year test,Stade Vélodrome,Marseille,France,False,False
 2022-11-12,Italy,Australia,28,27,2022 Autumn International,Stadio Artemio Franchi,Florence,Italy,False,False
 2022-11-12,Wales,Argentina,20,13,2022 Autumn International,Millennium Stadium,Cardiff,Wales,False,False
 2022-11-13,Scotland,New Zealand,23,31,2022 Autumn International,Murrayfield,Edinburgh,Scotland,False,False
@@ -2729,32 +2729,32 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2023-07-29,Australia,New Zealand,7,38,2023 Rugby Championship,Melbourne Cricket Ground,Melbourne,Australia,False,False
 2023-07-29,South Africa,Argentina,22,21,2023 Rugby Championship,Ellis Park,Johannesburg,South Africa,False,False
 2023-08-05,New Zealand,Australia,23,20,2023 Rugby World Cup warm-up match,Forsyth Barr Stadium,Dunedin,New Zealand,False,False
-2023-08-05,Argentina,South Africa,13,24,2023 Rugby World Cup warm-up match,JosÃ© Amalfitani,Buenos Aires,Argentina,False,False
+2023-08-05,Argentina,South Africa,13,24,2023 Rugby World Cup warm-up match,José Amalfitani,Buenos Aires,Argentina,False,False
 2023-08-05,Scotland,France,25,21,2023 Rugby World Cup warm-up match,Murrayfield Stadium,Edinburgh,Scotland,False,False
 2023-08-05,Wales,England,20,9,2023 Summer Nations Series,Millennium Stadium,Cardiff,Wales,False,False
 2023-08-05,Ireland,Italy,33,17,2023 Rugby World Cup warm-up match,Aviva Stadium,Dublin,Ireland,False,False
 2023-08-12,England,Wales,19,17,2023 Summer Nations Series,Twickenham,London,England,False,False
-2023-08-12,France,Scotland,30,27,2023 Rugby World Cup warm-up match,Stade Geoffroy-Guichard,Saint-Ã‰tienne,France,False,False
+2023-08-12,France,Scotland,30,27,2023 Rugby World Cup warm-up match,Stade Geoffroy-Guichard,Saint-Étienne,France,False,False
 2023-08-19,Wales,South Africa,16,52,2023 Rugby World Cup warm-up match,Millennium Stadium,Cardiff,Wales,False,False
 2023-08-19,Ireland,England,29,10,2023 Rugby World Cup warm-up match,Aviva Stadium,Dublin,Ireland,False,False
 2023-08-25,South Africa,New Zealand,35,7,2023 Rugby World Cup warm-up match,Twickenham Stadium,London,England,True,False
 2023-08-27,France,Australia,41,17,2023 Rugby World Cup warm-up match,Stade de France,Saint-Denis,France,False,False
 2023-09-08,France,New Zealand,27,13,2023 Rugby World Cup,Stade de France,Saint-Denis,France,False,True
-2023-09-09,England,Argentina,27,10,2023 Rugby World Cup,Stade VÃ©lodrome,Marseille,France,True,True
-2023-09-10,South Africa,Scotland,18,3,2023 Rugby World Cup,Stade VÃ©lodrome,Marseille,France,True,True
+2023-09-09,England,Argentina,27,10,2023 Rugby World Cup,Stade Vélodrome,Marseille,France,True,True
+2023-09-10,South Africa,Scotland,18,3,2023 Rugby World Cup,Stade Vélodrome,Marseille,France,True,True
 2023-09-23,South Africa,Ireland,8,13,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
 2023-09-24,Wales,Australia,40,6,2023 Rugby World Cup,Parc Olympique,Lyon,France,True,True
 2023-09-29,New Zealand,Italy,96,17,2023 Rugby World Cup,Parc Olympique,Lyon,France,True,True
 2023-10-06,France,Italy,60,7,2023 Rugby World Cup,Parc Olympique,Lyon,France,False,True
 2023-10-07,Ireland,Scotland,36,14,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
-2023-10-14,Wales,Argentina,17,29,2023 Rugby World Cup,Stade VÃ©lodrome,Marseille,France,True,True
+2023-10-14,Wales,Argentina,17,29,2023 Rugby World Cup,Stade Vélodrome,Marseille,France,True,True
 2023-10-14,Ireland,New Zealand,24,28,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
 2023-10-15,France,South Africa,28,29,2023 Rugby World Cup,Stade de France,Saint-Denis,France,False,True
 2023-10-20,Argentina,New Zealand,6,44,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
 2023-10-21,England,South Africa,15,16,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
 2023-10-27,Argentina,England,23,26,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
 2023-10-28,New Zealand,South Africa,11,12,2023 Rugby World Cup,Stade de France,Saint-Denis,France,True,True
-2024-02-02,France,Ireland,17,38,2024 Six Nations Championship,Stade VÃ©lodrome,Marseille,France,False,False
+2024-02-02,France,Ireland,17,38,2024 Six Nations Championship,Stade Vélodrome,Marseille,France,False,False
 2024-02-03,Italy,England,24,27,2024 Six Nations Championship,Stadio Olimpico,Rome,Italy,False,False
 2024-02-03,Wales,Scotland,26,27,2024 Six Nations Championship,Millennium Stadium,Cardiff,Wales,False,False
 2024-02-10,Scotland,France,16,20,2024 Six Nations Championship,Murrayfield Stadium,Edinburgh,Scotland,False,False
@@ -2777,7 +2777,7 @@ date,home_team,away_team,home_score,away_score,competition,stadium,city,country,
 2024-07-13,New Zealand,England,24,17,2024 England tour of New Zealand,Eden Park,Auckland,New Zealand,False,False
 2024-07-13,Australia,Wales,36,28,2024 Wales tour of Australiap,Melbourne Rectangular Stadium,Melbourne,Australia,False,False
 2024-07-13,South Africa,Ireland,24,25,2024 Ireland tour of South Africa,Kings Park Stadium,Durban,South Africa,False,False
-2024-07-13,Argentina,France,33,25,2024 France tour of Argentina,JosÃ© Amalfitani Stadium,Buenos Aires,Argentina,False,False
+2024-07-13,Argentina,France,33,25,2024 France tour of Argentina,José Amalfitani Stadium,Buenos Aires,Argentina,False,False
 2024-08-10,Australia,South Africa,7,33,2024 Rugby Championship,Suncorp Stadium,Brisbane,Australia,False,False
 2024-08-10,New Zealand,Argentina,30,38,2024 Rugby Championship,Wellington Regional Stadium,Wellington,New Zealand,False,False
 2024-08-17,New Zealand,Argentina,42,10,2024 Rugby Championship,Eden Park,Auckland,New Zealand,True,False
