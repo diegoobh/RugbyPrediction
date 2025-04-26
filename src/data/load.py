@@ -9,7 +9,7 @@ def load_results_csv():
     # Cargar el archivo CSV
     try:
         data = pd.read_csv(file_path)
-        # El rugby profesional
+        # El rugby profesional comenzó en 1995, así que filtramos los datos para que solo contengan fechas posteriores a 1995
         data = data[data['date'] >= '1995-01-01'] 
         return data
     except FileNotFoundError:

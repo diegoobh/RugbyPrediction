@@ -3,7 +3,7 @@ import sys
 
 # Agregar el directorio src al path para importar módulos desde allí
 root_path = os.path.dirname(os.path.abspath(__file__))
-src_path = os.path.join(root_path, '.', 'src')
+src_path = os.path.join(root_path, 'src')
 sys.path.append(src_path)
 
 # Importar la funciones necesarias
@@ -45,6 +45,7 @@ def main():
     X_test = test_data[['neutral', 'world_cup', 'ranking_home_points', 'ranking_away_points', 'home_performance', 'away_performance']]
     y_test = test_data['margin']
 
+    # Escalar los datos para los modelos
     X_train_scaled, X_test_scaled = scale_data(X_train, X_test)
 
     # Entrenar y evaluar los modelos de regresión
