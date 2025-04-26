@@ -3,8 +3,8 @@ import pandas as pd
 
 def load_results_csv():
     # Construir la ruta relativa al archivo
-    project_root = Path(__file__).resolve().parents[3]
-    file_path = project_root / "RugbyPrediction" / "data" / "results.csv"
+    project_root = Path(__file__).resolve().parents[2]
+    file_path = project_root / "data" / "results.csv"
     
     # Cargar el archivo CSV
     try:
