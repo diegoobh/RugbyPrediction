@@ -6,7 +6,6 @@ Proyecto final para Tecnologias de la Información Emergentes (USAL). Comparativ
 El proyecto está organizado en las siguientes carpetas y archivos:
 
 - 📊 **data/**: Contiene los archivos de datos necesarios para el proyecto, como archivos CSV u otros formatos relevantes.
-- 📂 **logs/**: Almacena los archivos de registro generados durante la ejecución, útiles para el análisis y la depuración.
 - 📓 **notebooks/**: Incluye los Jupyter Notebooks utilizados para análisis, experimentación y utilidades relacionadas.
 - 🖥️ **src/**: Contiene el código fuente modular del proyecto, organizado para facilitar la reutilización y el mantenimiento.
 - 🚀 **main.py**: Archivo principal que ejecuta el flujo principal del proyecto.
