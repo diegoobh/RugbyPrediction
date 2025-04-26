@@ -1,86 +1,67 @@
-# Este archivo contendrá el código para entrenar el modelo de machine learning de forecasting de partidos de rugby.
-# Importar las librerías necesarias
-import pandas as pd
+from sklearn.linear_model import LinearRegression
+from sklearn.ensemble import RandomForestRegressor
 from sklearn.model_selection import train_test_split
+from sklearn.preprocessing import StandardScaler
+from sklearn.svm import SVR
+from sklearn.metrics import mean_squared_error, r2_score
 from sklearn.ensemble import RandomForestClassifier
-from sklearn.metrics import accuracy_score
-from sklearn.metrics import classification_report
-from sklearn.metrics import confusion_matrix
-from sklearn.metrics import ConfusionMatrixDisplay
-import matplotlib.pyplot as plt
-import os
-import joblib
-from pathlib import Path
-import logging
-import sys
+from sklearn.metrics import accuracy_score, classification_report
+from sklearn.linear_model import LogisticRegression
+from sklearn.tree import DecisionTreeClassifier
 
-# Configurar el logger
-logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
-logger = logging.getLogger(__name__)
 
-# Configurar el logger para que escriba en un archivo
-log_file = Path(__file__).resolve().parents[3] / "logs" / "train.log"
-if not os.path.exists(log_file.parent):
-    os.makedirs(log_file.parent)
-file_handler = logging.FileHandler(log_file)
-file_handler.setLevel(logging.INFO)
-formatter = logging.Formatter('%(asctime)s - %(levelname)s - %(message)s')
-file_handler.setFormatter(formatter)
-logger.addHandler(file_handler)
-
-# Configurar el logger para que escriba en la consola
-console_handler = logging.StreamHandler(sys.stdout)
-console_handler.setLevel(logging.INFO)
-console_handler.setFormatter(formatter)
-logger.addHandler(console_handler)
-
-def train_model(data: pd.DataFrame, target_column: str, model_output_path: str):
+def scale_data(X_train, X_test):
     """
-    Entrena un modelo de clasificación basado en RandomForest.
-
-    Args:
-        data (pd.DataFrame): DataFrame con los datos de entrada.
-        target_column (str): Nombre de la columna objetivo.
-        model_output_path (str): Ruta donde se guardará el modelo entrenado.
-
-    Returns:
-        None
+    Escala los datos utilizando StandardScaler.
     """
-    try:
-        logger.info("Iniciando el proceso de entrenamiento del modelo.")
+    scaler = StandardScaler()
 
-        # Separar características y variable objetivo
-        X = data.drop(columns=[target_column])
-        y = data[target_column]
+    X_train_scaled = scaler.fit_transform(X_train)
+    X_test_scaled = scaler.transform(X_test)
 
-        # Dividir los datos en conjuntos de entrenamiento y prueba
-        X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_state=42)
-        logger.info("Datos divididos en entrenamiento y prueba.")
+    return X_train_scaled, X_test_scaled
 
-        # Crear y entrenar el modelo
-        model = RandomForestClassifier(random_state=42)
-        model.fit(X_train, y_train)
-        logger.info("Modelo entrenado exitosamente.")
+def train_regression_models(X_train_scaled, y_train, X_test_scaled, y_test):
+    """
+    Entrena y evalúa modelos de regresión.
+    """
+    models = {
+        'Linear Regression': LinearRegression(),
+        'Random Forest': RandomForestRegressor(),
+        'Support Vector Regression': SVR()
+    }
 
-        # Evaluar el modelo
-        y_pred = model.predict(X_test)
+    for model_name, model in models.items():
+        model.fit(X_train_scaled, y_train)
+        y_pred = model.predict(X_test_scaled)
+
+        mse = mean_squared_error(y_test, y_pred)
+        r2 = r2_score(y_test, y_pred)
+
+        print(f"Model: {model_name}")
+        print(f"Mean Squared Error: {mse:.2f}")
+        print(f"R^2 Score: {r2:.2f}")
+        print("=" * 40)
+
+def train_classification_models(X_train_scaled, y_train, X_test_scaled, y_test):
+    """
+    Entrena y evalúa modelos de clasificación.
+    """
+    models = {
+        'Logistic Regression': LogisticRegression(),
+        'Decision Tree': DecisionTreeClassifier(),
+        'Random Forest': RandomForestClassifier()
+    }
+
+    for model_name, model in models.items():
+        model.fit(X_train_scaled, y_train)
+        y_pred = model.predict(X_test_scaled)
+
         accuracy = accuracy_score(y_test, y_pred)
-        logger.info(f"Precisión del modelo: {accuracy:.2f}")
-
-        # Mostrar métricas adicionales
-        logger.info("Reporte de clasificación:")
-        logger.info("\n" + classification_report(y_test, y_pred))
-
-        # Mostrar matriz de confusión
-        cm = confusion_matrix(y_test, y_pred)
-        ConfusionMatrixDisplay(cm).plot()
-        plt.title("Matriz de Confusión")
-        plt.show()
-
-        # Guardar el modelo entrenado
-        joblib.dump(model, model_output_path)
-        logger.info(f"Modelo guardado en: {model_output_path}")
-
-    except Exception as e:
-        logger.error(f"Error durante el entrenamiento del modelo: {e}")
-        raise
+        classification_rep = classification_report(y_test, y_pred)
+        
+        print(f"Model: {model_name}")
+        print(f"Accuracy: {accuracy:.2f}")
+        print("Classification Report:")
+        print(classification_rep)
+        print("=" * 50)
