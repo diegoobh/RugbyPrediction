@@ -3,7 +3,7 @@ import sys
 
 # Agregar el directorio src al path para importar módulos desde allí
 root_path = os.path.dirname(os.path.abspath(__file__))
-src_path = os.path.join(root_path, '..', 'src')
+src_path = os.path.join(root_path, '.', 'src')
 sys.path.append(src_path)
 
 # Importar la funciones necesarias
