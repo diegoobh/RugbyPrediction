@@ -6,7 +6,7 @@ def load_results_csv():
     project_root = Path(__file__).resolve().parents[2]
     file_path = project_root / "data" / "results.csv"
     
-    # Cargar el archivo CSV
+    # Cargar el CSV
     try:
         data = pd.read_csv(file_path)
         # El rugby profesional comenzó en 1995, así que filtramos los datos para que solo contengan fechas posteriores a 1995

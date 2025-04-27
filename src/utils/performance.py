@@ -1,4 +1,4 @@
-# Función para medir el rendimiento de un equipo en función de los partidos ganados, perdidos y empatados
+# Calcula el rendimiento de un equipo en función de los partidos ganados, perdidos y empatados
 def get_performance(results_df, team_name, current_row_index, n_games):
     team_performance = []
     games = results_df.copy()

@@ -22,7 +22,7 @@ def scale_data(X_train, X_test):
 
 def train_regression_models(X_train_scaled, y_train, X_test_scaled, y_test):
     """
-    Entrena y evalúa modelos de regresión.
+    Entrena y evalúa los modelos de regresión.
     """
     models = {
         'Linear Regression': LinearRegression(),
@@ -44,7 +44,7 @@ def train_regression_models(X_train_scaled, y_train, X_test_scaled, y_test):
 
 def train_classification_models(X_train_scaled, y_train, X_test_scaled, y_test):
     """
-    Entrena y evalúa modelos de clasificación.
+    Entrena y evalúa los modelos de clasificación.
     """
     models = {
         'Logistic Regression': LogisticRegression(),

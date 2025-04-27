@@ -30,6 +30,7 @@ def main():
     data = results_df.copy()
     # Filtrar los datos para que solo contengan fechas posteriores a 1996 para tener datos previos del ranking
     data = data[data['date'] > '1996-01-01']
+    
     # Convertir las columnas 'neutral' y 'world_cup' a tipo entero
     data['neutral'] = data['neutral'].astype(int)
     data['world_cup'] = data['world_cup'].astype(int)
