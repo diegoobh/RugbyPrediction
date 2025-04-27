@@ -23,7 +23,7 @@ def process_data(results_df):
     results_df['margin'] = results_df['home_score'] - results_df['away_score']
 
     # Añadimos una columna para el resultado del partido definiendo si gana el equipo local o visitante
-    results_df['result'] = results_df['margin'].apply(lambda x: 'home_win' if x > 0 else ('away_win' if x == 0 else 'draw'))
+    results_df['result'] = results_df['margin'].apply(lambda x: 'home_win' if x > 0 else ('away_win' if x < 0 else 'draw'))
 
     # Inicializamos el ranking de los equipos empezando en 80 todos 
     ranking_points = { 'Scotland': 80, 'England': 80, 'Ireland': 80, 'Wales': 80, 'France': 80, 'Italy': 80, 'South Africa': 80, 'New Zealand': 80, 'Australia': 80, 'Argentina': 80}
