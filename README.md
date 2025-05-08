@@ -11,3 +11,9 @@ El proyecto está organizado en las siguientes carpetas y archivos:
 - 🚀 **main.py**: Archivo principal que ejecuta el flujo principal del proyecto.
 
 Esta estructura permite mantener el proyecto organizado y facilita la colaboración y el desarrollo.
+
+## Documentación
+
+Puedes consultar la documentación completa del proyecto en el siguiente enlace:
+
+[Documentación de RugbyPrediction](https://deepwiki.com/diegoobh/RugbyPrediction)
